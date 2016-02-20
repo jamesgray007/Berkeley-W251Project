@@ -11,11 +11,13 @@ This project will explore processing large volumes of Yelp review data to formul
 
 ### Technology
 Our goal is to evaluate various technologies from feature and performance perspectives.
-* Hadoop
+* Batch processing - Hadoop
 * Spark - query, machine learning
 * Sentiment analysis -
 * Recommendation engine -
-* Real-time data analysis -
+* Real-time data analysis - Spark, Storm
+* Visualization - [Bokeh] (http://bokeh.pydata.org/en/latest/)
+* Query and data analysis across various storage systems - [Blaze] (http://blaze.pydata.org/)
 
 
 
