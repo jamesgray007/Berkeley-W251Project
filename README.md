@@ -1,1 +1,2 @@
-# Berkeley-W251Project
+### UC Berkeley - Master of Information
+
