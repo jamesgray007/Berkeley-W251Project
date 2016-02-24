@@ -2,6 +2,8 @@
 ### W251 Final Project
 
 ### Team Members
+Duval Bhatt
+Tuhin Mahmud
 
 #### Overview
 This project will explore processing large volumes of Yelp review data to formulate recommendations based on certain criteria and evaluate the sentiment of businesses.  
